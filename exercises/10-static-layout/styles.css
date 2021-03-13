@@ -1,0 +1,52 @@
+.wrapper {
+	display: flex;
+	flex-wrap: wrap;
+	margin: 20px;
+}
+h1 {
+	flex: 1 100%;
+	font-size: 60px;
+}
+header {
+	flex: 1 100%;
+}
+nav {
+	flex: 1;
+	margin-right: 10px;
+}
+
+section {
+	flex: 5;
+}
+
+*:before,
+*:after {
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+body {
+	background: #2980b9;
+	color: #fff;
+	font-family: Helvetica;
+	text-align: center;
+	margin: 0;
+}
+
+header,
+nav,
+section {
+	border: 1px solid rgba(255, 255, 255, 0.8);
+	margin-bottom: 10px;
+	border-radius: 3px;
+}
+
+header {
+	padding: 10px 0;
+}
+
+nav,
+section {
+	padding: 100px 0;
+}

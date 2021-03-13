@@ -1,0 +1,15 @@
+#myImage {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	z-index: 1;
+}
+h1 {
+	position: relative;
+	z-index: 2;
+}
+
+p {
+	position: relative;
+	z-index: 3;
+}

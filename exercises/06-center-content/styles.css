@@ -1,0 +1,8 @@
+body {
+	background: blue;
+}
+.contenedor {
+	background: gray;
+	width: 400px;
+	margin: auto;
+}

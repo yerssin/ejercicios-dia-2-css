@@ -1,0 +1,19 @@
+body {
+	margin: 0;
+}
+#padre {
+	display: flex;
+	width: 100%;
+}
+#padre div {
+	width: 33%;
+}
+#sectionA {
+	background: blue;
+}
+#sectionB {
+	background: red;
+}
+#sectionC {
+	background: green;
+}

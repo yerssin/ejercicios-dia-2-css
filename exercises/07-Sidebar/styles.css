@@ -1,0 +1,11 @@
+#wrapper {
+	background: white;
+	display: flex;
+	height: 100vh;
+}
+#sidebar {
+	background: gray;
+}
+#content {
+	background: green;
+}

@@ -1,0 +1,12 @@
+#myFirstH2 {
+	visibility: hidden;
+}
+#myFirstH2 {
+	display: none;
+}
+li {
+	display: inline;
+}
+p strong {
+	display: block;
+}
